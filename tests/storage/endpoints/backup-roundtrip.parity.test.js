@@ -62,6 +62,7 @@ const MESSAGES = [
 // silently, so the surface is deliberately small.
 const ALL_SELECTION = {
     settings: true,
+    backups: true,
     secrets: true,
     characters: true,
     chats: true,
